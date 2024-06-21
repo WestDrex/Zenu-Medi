@@ -1,0 +1,42 @@
+.writeup-container {
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 1200px;
+  gap: 150px;
+}
+
+.writeup-section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.feautured-services {
+  text-decoration: underline;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  font-family: Poppins, sans-serif;
+}
+.writeup-section.reverse {
+  flex-direction: row-reverse;
+}
+
+.writeup-image {
+  width: 40%;
+  height: auto;
+  margin-right: 20px;
+}
+
+.writeup-section.reverse .writeup-image {
+  margin-right: 0;
+  margin-left: 20px;
+}
+
+.writeup-text {
+  width: 40%;
+  height: 50%;
+  font-size: 14px;
+  color: #100e0e;
+}
+.writeup-text p {
+  color: #100e0e;
+}

@@ -1,0 +1,46 @@
+.hero-container {
+  /* width: 600px; */
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+.intro {
+  margin-top: 180px;
+  font-weight: 400;
+  /* line-height: 16px; */
+  letter-spacing: 3px;
+  font-size: 2rem;
+  /* margin-bottom: 5px; */
+  color: #e4e4e4;
+}
+.intro-content {
+  width: 542px;
+  line-height: 1.5;
+  color: #fcfcfc;
+  word-wrap: break-word;
+  margin-top: 60px;
+  /* margin-left: 530px; */
+  position: absolute;
+  right: 32%;
+  padding-bottom: 50px;
+  letter-spacing: 0.5px;
+}
+.know-more {
+  color: #fcfcfc;
+
+  position: absolute;
+  right: 46.1%;
+  top: 72%;
+}
+hr {
+  margin: 10px;
+  height: 2px;
+  width: 105px;
+  color: white;
+  border: 2px solid;
+  border-radius: 3px;
+  /* margin-left: 600px; */
+  position: absolute;
+  right: 44.9%;
+  top: 74.5%;
+}

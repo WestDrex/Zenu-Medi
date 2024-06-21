@@ -1,0 +1,58 @@
+.footer {
+  background-color: #caf2db;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.footer-header {
+  font-size: 35px;
+  margin-bottom: 20px;
+  color: #2eab4a;
+  position: relative;
+  left: -33.9%;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  gap: 240px;
+  flex-wrap: wrap;
+}
+
+.footer-column {
+  max-width: 200px;
+  color: #2eab4ac7;
+  line-height: 35px;
+}
+.account {
+  font-weight: 700;
+}
+.follow {
+  margin-bottom: 20px;
+  color: #2eab4ac7;
+}
+
+.footer-social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.social-icon {
+  width: 30px;
+  height: 30px;
+}
+.vector11 {
+  width: 130px;
+  position: relative;
+  right: -123%;
+  bottom: 75%;
+}
+/* 
+.vector5 {
+  width: 130px;
+  position: relative;
+  left: -48%;
+  top: 20%;
+} */
