@@ -18,6 +18,13 @@
   gap: 240px;
   flex-wrap: wrap;
 }
+ul {
+  list-style-position: inside;
+  padding-left: 4px;
+}
+ul li{
+padding-left: 0;
+}
 
 .footer-column {
   max-width: 200px;
